@@ -1,1 +1,1 @@
-Um gerador de imagens aleatórias usando a Api: https://cataas.com/cat e React.
+Um gerador de imagens aleatórias de gatos usando a Api: https://cataas.com/cat e React. 🐱
